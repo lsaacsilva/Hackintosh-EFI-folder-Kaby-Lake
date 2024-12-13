@@ -6,7 +6,7 @@ Funciona com macOS Sonoma e Sequoia!
 Intel HD Graphics 630**
 
 
-Uma pasta EFI **clean** e **vanilla** para seu Hackintosh decolar 🚀
+Uma pasta EFI com OpenCore **clean** e **vanilla** para seu Hackintosh decolar 🚀
 
 ![Captura de Tela 2024-12-13 às 15 43 58](https://github.com/user-attachments/assets/2084a941-f3e3-45bd-89e4-bf6de3efadf9)
 
